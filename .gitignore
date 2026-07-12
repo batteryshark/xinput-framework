@@ -1,0 +1,8 @@
+# Build output (Makefile writes here)
+/build/
+
+# Object files and libraries
+*.o
+*.a
+*.dll
+*.lib
